@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/sos_blink.hex'
+elf = 'build/sos_blink.elf'
